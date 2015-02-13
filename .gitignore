@@ -1,0 +1,7 @@
+node_modules/
+sftp-config.json
+*.zip
+*.pem
+*.ppk
+*.rar
+*.tar.gz
